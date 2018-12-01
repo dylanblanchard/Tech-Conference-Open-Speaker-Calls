@@ -5,13 +5,13 @@ Let's collect the great Research content out there.
 
 ## Table of contents
 
-1. [Conferences accepting talk proposals](#conferences-still-accepting-talk-proposals)
+1. [Conferences accepting talk proposals](#conferences-accepting-talk-proposals)
 2. [Waiting to find out when open](#waiting-to-find-out-when-open-calls-are)
 3. [Contributing to this list](#contributing-to-this-list)
 
 ## Conferences
 
-### Conferences still accepting talk proposals
+### Conferences accepting talk proposals
 
 ####
 
@@ -65,4 +65,4 @@ When <br> _unknown_ | Where <br> Vancouver, Canada
 This list will be better if we all contribute to it.
 If you're on Github, please submit a pull request or create an issue to get the content added. If that's not your jam, feel free to email me conferences@dylan.pizza
 
-If anyone has been to a conference on this blog post [Best Conferences for UX Researchers 2018](https://medium.com/mixed-methods/best-conferences-for-ux-researchers-2018-c4a5c61effa9), feel free to vouch and add it to the list. 
+If anyone has been to a conference on this blog post [Best Conferences for UX Researchers 2018](https://medium.com/mixed-methods/best-conferences-for-ux-researchers-2018-c4a5c61effa9), feel free to vouch and add it to the list.
