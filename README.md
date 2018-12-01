@@ -38,6 +38,12 @@ Research belongs at the heart of UX. It guides our work and shapes our decisions
 When <br> Nov 1, 2019 <br> | Where <br> Brighton, UK
 [Subscribe for updates](https://uxbrighton.org.uk/2018/#newletter-signup) | [Last year's conference site](https://uxbrighton.org.uk/2018/)
 
+EPIC 2019 | [Website](https://www.epicpeople.org/)
+------------ | -------------
+The premier international conference on ethnography in business is November 10–13 | Closing date <br> _Not yet announced_
+When <br> Nov 10-13, 2019 <br> | Where <br> Rhode Island, USA
+[Subscribe for updates](https://www.epicpeople.org/newsletter-signup/) | [Last year's conference site](https://2018.epicpeople.org/)
+
 
 
 ## No longer accepting proposals (keep an eye on for next year!)  
