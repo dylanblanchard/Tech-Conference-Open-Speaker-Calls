@@ -48,10 +48,16 @@ When <br> Nov 10-13, 2019 <br> | Where <br> Rhode Island, USA
 
 ## No longer accepting proposals (keep an eye on for next year!)  
 
+QRCA 2019 | [Website](https://www.qrca.org/page/2019_HomePage)
+------------ | -------------
+Prepare to expand your knowledge and collaborate alongside the best qualitative research professionals in the industry.  | Closed: _unknown_
+When <br> Jan 30-Feb 1, 2019 |  Where <br> Savannah, USA
+Price to attend: ~$1000 | [Last year's conference site](https://www.qrca.org/page/2018_HomePage)
+
 Design Research 2019 | [Website](http://www.uxaustralia.com.au/conferences/design-research-2019/)
 ------------ | -------------
 A three-day event dedicated to design research – from planning and conducting, to analysis and use.  | Closed: Nov 9/18 <br> Speakers: Dec 3/18
-When <br> Mar 13-15 |  Where <br> Sydney, Australia
+When <br> Mar 13-15, 2019 |  Where <br> Sydney, Australia
 ~~[Submit a talk here.](#)~~ | [Last year's conference site](http://www.uxaustralia.com.au/conferences/designresearch-2018)
 
 UX Insight | [Website](https://www.userresearchlondon.com/)
