@@ -11,7 +11,7 @@ Let's collect the great Research content out there.
 
 ## Conferences
 
-### Conferences accepting talk proposals
+## Conferences accepting talk proposals
 
 No known conferences at this time.
 
