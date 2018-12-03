@@ -13,16 +13,7 @@ Let's collect the great Research content out there.
 
 ### Conferences accepting talk proposals
 
-####
-
-UX Research Conference | [Website](http://uxrconference.com)
------------- | -------------
-We bring together researchers, designers and product people for listening, learning, and conversation about UX research. | Closing date <br> 11:59pm EST on Sunday, December 2, 2018
-When <br> July 6-7, 2019 | Where <br> Toronto, Canada
-[Submit a talk here.](https://docs.google.com/forms/d/e/1FAIpQLSd-ghkfI4eRNlA7EomiAnT4cJyqC4c8bn_xVXE8CEvJ1D02Sg/viewform) | [Last year's conference site](http://www.uxresearchto.com/uxrconf2018/)
-
-
-
+No known conferences at this time.
 
 ## Waiting to find out when open calls are
 
@@ -45,7 +36,6 @@ When <br> Nov 10-13, 2019 <br> | Where <br> Rhode Island, USA
 [Subscribe for updates](https://www.epicpeople.org/newsletter-signup/) | [Last year's conference site](https://2018.epicpeople.org/)
 
 
-
 ## No longer accepting proposals (keep an eye on for next year!)  
 
 QRCA 2019 | [Website](https://www.qrca.org/page/2019_HomePage)
@@ -64,7 +54,7 @@ When <br> Mar 13-15, 2019 |  Where <br> Sydney, Australia
 ------------ | -------------
 Making games better through playtesting and understanding players.  | Closed: _unknown_
 When <br> March 19, 2019 |  Where <br> San Francisco, USA
-~~[Submit a talk here.](#)~~ | [Last year's conference site](#)
+~~[Submit a talk here.](#)~~ | [Last year's conference site](https://www.qrca.org/page/2018_HomePage)
 
 UX Insight | [Website](https://www.userresearchlondon.com/)
 ------------ | -------------
@@ -72,11 +62,17 @@ An international conference dedicated to User Experience Research | Closing date
 When <br> April 3-4 2019 | Where <br> Outside Amsterdam, Netherlands
 [Speakers Announced](https://www.uxinsightevent.com/speakersconference/) | [Last year's conference site](https://www.uxinsightevent.com/edition2018/)
 
+UX Research Conference | [Website](http://uxrconference.com)
+------------ | -------------
+We bring together researchers, designers and product people for listening, learning, and conversation about UX research. | Closed December 2, 2018
+When <br> July 6-7, 2019 | Where <br> Toronto, Canada
+[Submit a talk here.](https://docs.google.com/forms/d/e/1FAIpQLSd-ghkfI4eRNlA7EomiAnT4cJyqC4c8bn_xVXE8CEvJ1D02Sg/viewform) | [Last year's conference site](http://www.uxresearchto.com/uxrconf2018/)
+
 Radical Research | [Website](http://www.radicalresearchsummit.com/)
 ------------ | -------------
 The Radical Research Summit is a one-day event that brings together over 200 researchers, UX practitioners, ethnographers, product managers and businesses. | Closing date: _unknown_
 When <br> _unknown_ | Where <br> Vancouver, Canada
-[Apply to speak](#) | [Last year's conference site](#1)
+~~[Apply to speak](#)~~ | ~~[Last year's conference site](#1)~~
 
 
 ## Contributing to this list
