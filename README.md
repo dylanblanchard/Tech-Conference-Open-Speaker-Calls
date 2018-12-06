@@ -50,11 +50,11 @@ A three-day event dedicated to design research – from planning and conducting,
 When <br> Mar 13-15, 2019 |  Where <br> Sydney, Australia
 ~~[Submit a talk here.](#)~~ | [Last year's conference site](http://www.uxaustralia.com.au/conferences/designresearch-2018)
 
-#GamesUR | [Website](https://www.qrca.org/page/2019_HomePage)
+#GamesUR | [Website](http://gamesurconf.com/us/)
 ------------ | -------------
 Making games better through playtesting and understanding players.  | Closed: _unknown_
 When <br> March 19, 2019 |  Where <br> San Francisco, USA
-~~[Submit a talk here.](#)~~ | [Last year's conference site](https://www.qrca.org/page/2018_HomePage)
+~~[Submit a talk here.](#)~~ | ~~[Last year's conference site](http://gamesurconf.com/us/)~~
 
 UX Insight | [Website](https://www.userresearchlondon.com/)
 ------------ | -------------
