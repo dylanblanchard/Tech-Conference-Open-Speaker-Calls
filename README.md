@@ -19,8 +19,8 @@ No known conferences at this time.
 
 User Research London | [Website](https://www.userresearchlondon.com/)
 ------------ | -------------
-A conference by UX researchers for UX researchers | Closing date <br> _Not yet announced_
-When <br> June, 2019 <br> | Where <br> London, UK
+A conference by UX researchers for UX researchers | Closing date <br> _No longer accepting proposals (?)<br> [Tickets](https://ti.to/user-research-london/2019)
+When <br> June 28, 2019 <br> | Where <br> London, UK
 [Subscribe for updates](https://www.userresearchlondon.com/) | [Last year's conference site](https://www.userresearchlondon.com/2018/)
 
 UX Brighton | [Ticket site](https://www.eventbrite.co.uk/e/ux-brighton-2019-tickets-51654305418)
