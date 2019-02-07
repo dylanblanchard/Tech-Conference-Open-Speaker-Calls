@@ -65,7 +65,7 @@ When <br> April 3-4 2019 | Where <br> Outside Amsterdam, Netherlands
 UX Research Conference | [Website](http://uxrconference.com)
 ------------ | -------------
 We bring together researchers, designers and product people for listening, learning, and conversation about UX research. | Closed December 2, 2018
-When <br> July 6-7, 2019 | Where <br> Toronto, Canada
+When <br> June 6-7, 2019 | Where <br> Toronto, Canada
 [Submit a talk here.](https://docs.google.com/forms/d/e/1FAIpQLSd-ghkfI4eRNlA7EomiAnT4cJyqC4c8bn_xVXE8CEvJ1D02Sg/viewform) | [Last year's conference site](http://www.uxresearchto.com/uxrconf2018/)
 
 Radical Research | [Website](http://www.radicalresearchsummit.com/)
